@@ -21,3 +21,14 @@ Our final implementation includes:
 - All dependencies (such as yfinance) are installed directly inside the notebook using standard !pip install commands.
 
 - Thanks so much for taking the time to review our project we really appreciate it!
+
+---
+
+## Links:
+Parent paper:
+- [**PreBit — A multimodal model with Twitter FinBERT and price data for extreme Bitcoin price-movement prediction**](https://www.sciencedirect.com/science/article/abs/pii/S0957417423013404?fr=RR-2&ref=pdf_download&rr=9a1eb6995a585a22)
+
+
+Original Dataset:
+- Full dataset [available on Kaggle](https://www.kaggle.com/datasets/zyz5557585/prebit-multimodal-dataset-for-bitcoin-price).
+
