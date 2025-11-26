@@ -2,7 +2,7 @@
 
 Welcome! This repository holds the final version of our Bitcoin Price Forecasting and Anomaly Detection project that we have developed for this course. You’ll notice a handful of exploratory scripts and notebooks from the parent papers early development stages, but all of the polished and complete work can be found in our main notebook below, which represents the final direction of our project:
 
-  - Copy_of_price_base_model_innovation.ipynb
+  - price_base_model_INNOVATION (1).ipynb
 
 ---
 ## Project Overview
